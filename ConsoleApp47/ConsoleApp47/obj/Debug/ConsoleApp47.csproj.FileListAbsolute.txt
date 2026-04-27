@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\ConsoleApp47\ConsoleApp47\bin\Debug\ConsoleApp47.exe.config
+C:\Users\LENOVO\source\repos\ConsoleApp47\ConsoleApp47\bin\Debug\ConsoleApp47.exe
+C:\Users\LENOVO\source\repos\ConsoleApp47\ConsoleApp47\bin\Debug\ConsoleApp47.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.exe
+C:\Users\LENOVO\source\repos\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.pdb
+C:\Users\LENOVO\source\repos\ConsoleApp47\ConsoleApp47\obj\Debug\ConsoleApp47.exe.config
